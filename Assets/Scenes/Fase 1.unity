@@ -10599,7 +10599,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1072953819}
-  m_LocalRotation: {x: 0.0181895, y: 0.000000008353746, z: -0.0000000015669577, w: 0.9998346}
+  m_LocalRotation: {x: 0.0181895, y: -0.000000008077447, z: 0.0000000015151308, w: 0.9998346}
   m_LocalPosition: {x: -0, y: -0, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -11646,7 +11646,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1183796836}
   m_Layer: 0
-  m_Name: inimigos
+  m_Name: patrulheiros
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15740,7 +15740,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1579739609}
-  m_LocalRotation: {x: 0.08351776, y: 0.000000008189545, z: -6.8637046e-10, w: 0.9965063}
+  m_LocalRotation: {x: 0.08351776, y: -0.000000008194249, z: 6.867647e-10, w: 0.9965063}
   m_LocalPosition: {x: -11.4, y: 9.780001, z: 8.430002}
   m_LocalScale: {x: -0.89935, y: -0.89935, z: -0.89935}
   m_Children:
@@ -16277,7 +16277,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1649962604}
-  m_LocalRotation: {x: -0.000000014901161, y: 0.000000011800711, z: -0.000000001992041, w: 1}
+  m_LocalRotation: {x: -0.000000014901161, y: -0.00000001153453, z: 0.0000000019471078, w: 1}
   m_LocalPosition: {x: -0, y: -0, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -17638,7 +17638,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1846411317}
-  m_LocalRotation: {x: -0.018141463, y: -0.000000011626291, z: 0.0000000017462967, w: 0.9998355}
+  m_LocalRotation: {x: -0.018141463, y: -0.000000021741156, z: 0.000000003265574, w: 0.9998355}
   m_LocalPosition: {x: -0, y: -0, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
