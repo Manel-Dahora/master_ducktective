@@ -1,0 +1,257 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 16235 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Titan/Desktop/master_ducktective-core_gameplay
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53051
+Successfully changed project path to: C:/Users/Titan/Desktop/master_ducktective-core_gameplay
+C:/Users/Titan/Desktop/master_ducktective-core_gameplay
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 32.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Titan/Desktop/master_ducktective-core_gameplay/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   
+    VRAM:     8117 MB
+    Driver:   27.20.100.8681
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56568
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004319 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.544 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001585 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.774 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1281 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.2 MB.
+System memory in use after: 76.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1745.
+Total: 3.389100 ms (FindLiveObjects: 0.239300 ms CreateObjectMapping: 0.073500 ms MarkObjects: 2.872600 ms  DeleteObjects: 0.201200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ducktective project/Scripts/inimigos/EnemyPatrolAndKick.cs
+  artifactKey: Guid(4016e86f37a0b174eb423969a2ef75ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/inimigos/EnemyPatrolAndKick.cs using Guid(4016e86f37a0b174eb423969a2ef75ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aaad166f1697a9c7879abc463b79463') in 0.069149 seconds
+  Import took 0.073055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000597 seconds.
+  path: Assets/ducktective project/Scripts/inimigos/EnemyPatrolAndShoot.cs
+  artifactKey: Guid(9e91e84abf3d40349a946dfc0b0f92dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/Scripts/inimigos/EnemyPatrolAndShoot.cs using Guid(9e91e84abf3d40349a946dfc0b0f92dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c71c57a1106ffcbbb9d0bd59ddee004b') in 0.073606 seconds
+  Import took 0.080601 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001342 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.987 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1274 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.0 MB.
+System memory in use after: 76.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1748.
+Total: 2.654200 ms (FindLiveObjects: 0.219200 ms CreateObjectMapping: 0.043800 ms MarkObjects: 2.304900 ms  DeleteObjects: 0.085000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001697 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.006 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1274 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.0 MB.
+System memory in use after: 76.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1751.
+Total: 3.535800 ms (FindLiveObjects: 0.219300 ms CreateObjectMapping: 0.065000 ms MarkObjects: 3.107500 ms  DeleteObjects: 0.141400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001006 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.964 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1274 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.0 MB.
+System memory in use after: 76.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1754.
+Total: 2.026900 ms (FindLiveObjects: 0.150300 ms CreateObjectMapping: 0.041500 ms MarkObjects: 1.697600 ms  DeleteObjects: 0.136700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001239 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.066 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1274 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.1 MB.
+System memory in use after: 76.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1757.
+Total: 1.943600 ms (FindLiveObjects: 0.132900 ms CreateObjectMapping: 0.036800 ms MarkObjects: 1.684300 ms  DeleteObjects: 0.088400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 625.419377 seconds.
+  path: Assets/ducktective project/prefabs/BulletEnemy 1.prefab
+  artifactKey: Guid(e43c31815a9a18442a086d47ddd37976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/prefabs/BulletEnemy 1.prefab using Guid(e43c31815a9a18442a086d47ddd37976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c5d5b476c6d016d10ef0f39fc24c296') in 1.138569 seconds
+  Import took 1.142386 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001488 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.119 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1274 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.2 MB.
+System memory in use after: 79.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1768.
+Total: 2.841200 ms (FindLiveObjects: 0.210700 ms CreateObjectMapping: 0.050400 ms MarkObjects: 2.474200 ms  DeleteObjects: 0.104000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.838931 seconds.
+  path: Assets/ducktective project/prefabs/BulletEnemy 1.prefab
+  artifactKey: Guid(e43c31815a9a18442a086d47ddd37976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/prefabs/BulletEnemy 1.prefab using Guid(e43c31815a9a18442a086d47ddd37976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb38bc15154cb257a7c92ca444a4fc84') in 7.183163 seconds
+  Import took 7.185730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.727981 seconds.
+  path: Assets/ducktective project/prefabs/BulletEnemy 1 1.prefab
+  artifactKey: Guid(2b57ae322a205f543bcacb6c7e1ca45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/prefabs/BulletEnemy 1 1.prefab using Guid(2b57ae322a205f543bcacb6c7e1ca45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '359d778e8242023d65945e0c089bda91') in 0.048314 seconds
+  Import took 0.051469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006177 seconds.
+  path: Assets/ducktective project/prefabs/BulletEnemy 1 1.prefab
+  artifactKey: Guid(2b57ae322a205f543bcacb6c7e1ca45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ducktective project/prefabs/BulletEnemy 1 1.prefab using Guid(2b57ae322a205f543bcacb6c7e1ca45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '359d778e8242023d65945e0c089bda91') in 0.014157 seconds
+  Import took 0.016678 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001022 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.443 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1274 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.3 MB.
+System memory in use after: 79.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1772.
+Total: 3.719400 ms (FindLiveObjects: 0.294700 ms CreateObjectMapping: 0.200600 ms MarkObjects: 3.043800 ms  DeleteObjects: 0.177800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000757 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.893 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1274 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.3 MB.
+System memory in use after: 79.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1775.
+Total: 2.374800 ms (FindLiveObjects: 0.149800 ms CreateObjectMapping: 0.033700 ms MarkObjects: 2.106100 ms  DeleteObjects: 0.084200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
